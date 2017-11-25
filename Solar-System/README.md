@@ -22,4 +22,4 @@ Only Jupiter and Saturn are visible without telescopes.
 ```
 
 ## 3. Screenshot
-<img src= ""></img>
+<img src= "img/1.png"></img>

@@ -1,4 +1,4 @@
-[SPACEBOY] SOLAR-SYSTEM SIMULATION
+[SPACEBOY] SOLAR-SYSTEM SIMULATION (language: java)
 ======================
 
 # 1. About solar-system simulation

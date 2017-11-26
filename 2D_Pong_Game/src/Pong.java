@@ -1,7 +1,10 @@
-
 import edu.princeton.cs.introcs.StdDraw;
-
 import java.awt.Color;
+
+/**
+ * Copyright 2017 by Spaceboy. All rights reserved. 
+ */
+
 
 public class Pong {
 

@@ -10,7 +10,7 @@
 ## 1.3.
 
 # 2. Required jar 
-<h3>For your convenience, stdlib.jar has been uploaded, download and import</h3>
+<h3>For your convenience, stdlib.jar has been uploaded, download and import it</h3>
 
 ```
 1. Download the standard libraries called, "stdlib.jar." 

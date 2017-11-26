@@ -4,10 +4,18 @@ import java.util.ArrayList;
 
 import edu.princeton.cs.introcs.StdDraw;
 
+/**
+ * Copyright 2017 by Spaceboy. All rights reserved. 
+ */
+
 public class System {
+	
+	// creating a Body class arraylist called, "bodies"
+	// creating a private type variable for Gravitational constant
 	ArrayList<Body> bodies;
 	private double G = 6.67384e-11;
 	
+	// creating a constructor that body type arraylist
 	public System(ArrayList<Body> bodyList) {
 		bodies = bodyList;
 	}

@@ -13,7 +13,7 @@ public class Solar {
 	public static void main(String[] args) {
 		Body sun = new Body(0, 0, 0, 0, 10, SunMess, 255, 0, 0);
 		Body earth = new Body(AU, 0, 0, 29790, 5, EM, 0, 0, 255);
-//		Body moon = new Body(3.844e8, 0, 0, -1022, 5, 7.3477e22, 255, 255, 255);
+		Body moon = new Body(3.844e8, 0, 0, -1022, 5, 7.3477e22, 255, 255, 255);
 		Body mercury = new Body(0.3871 * AU, 0, 0, 48000, 3, 0.055 * EM, 123, 234, 012);		
 		Body venus = new Body(0.7233 * AU, 0, 0, 35000, 5, 0.81 * EM, 35, 199, 200);
 		Body mars = new Body(1.524 * AU, 0, 0, 24140, 4, 0.108 * EM, 42, 234, 012);

@@ -1,9 +1,9 @@
+import edu.princeton.cs.introcs.StdDraw;
 
 /**
  * Copyright 2017 by Spaceboy. All rights reserved. 
  */
 
-import edu.princeton.cs.introcs.StdDraw;
 
 public class RecursiveTree {
 	public static int count = 0;
@@ -11,6 +11,7 @@ public class RecursiveTree {
 	public static void tree(int order, double x0, double y0, double x1, double y1, int branch, double pw) {
 		
 		if (order <= 2) {
+//			do something, and return
 			double length = Math.sqrt((x0-x1)*(x0-x1) + (y0-y1)*(y0-y1));
 			double angle;
 			if (Math.abs(x1 - x0) < 0.0001) {
@@ -34,12 +35,8 @@ public class RecursiveTree {
 			for (int i = 0; i < branch; i++) {
 				x2 = x1 + length * 0.7 * Math.cos(left - step * i);
 				y2 = y1 + length * 0.7 * Math.sin(left - step * i);
-//				System.out.println(Double.toString(angle) + ", " + Double.toString(left) + ", " + Double.toString(step));
-//				System.out.println(Double.toString(x2) + ", " + Double.toString(y2));
 				StdDraw.line(x1, y1, x2, y2);
 			}
-//			StdDraw.setPenColor(StdDraw.GRAY);
-//			StdDraw.setPenRadius(pw);
 			return;
 		}
 		
@@ -67,7 +64,7 @@ public class RecursiveTree {
 			x2 = x1 + length * 0.7 * Math.cos(left - step * i);
 			y2 = y1 + length * 0.7 * Math.sin(left - step * i);
 			StdDraw.setPenRadius(width);
-			StdDraw.setPenColor(StdDraw.GRAY);
+			StdDraw.setPenColor(StdDraw.RED);
 			StdDraw.line(x1, y1, x2, y2);
 			tree(order - 1, x1, y1, x2, y2, branch, width);
 		}
@@ -82,7 +79,8 @@ public class RecursiveTree {
 		StdDraw.setXscale(0, 800);
 		StdDraw.setYscale(0, 800);
 		StdDraw.setPenRadius(0.03);
-		StdDraw.setPenColor(StdDraw.GRAY);
+		StdDraw.clear(StdDraw.BLACK);
+		StdDraw.setPenColor(StdDraw.DARK_GRAY);
 		count = 0;
 		StdDraw.line(400, 200, 400, 400);
 		

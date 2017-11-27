@@ -1,19 +1,18 @@
-[SPACEBOY] 2D_Pong_Game
+[SPACEBOY] Recursive_Tree
 (language: java)
 ======================
 
-# 1. About 2D_Pong_Game simulation
-## 1.1. what's 2D_Pong_Game?
-It is a 2D single game that user presses key to play with a ball
+# 1. About Recursive_Tree
+## 1.1. What is a Recursive_Tree?
+A recursive tree visualizes how each recurrence gets iterated.
 
-## 1.2. Game Instruction
-Press Z to move the left bar down
-Press A to move the left bar up
- 
-Press M to move the right bar down
-Press K to move the right bar up
+## 1.2. Algorithm
+T(n) = 2T(n/2) + n2
+An equation that recursively defines a multidimensional array of values.
 
-## 2. Required jar 
+<img src= "img/2.png"></img>
+
+# 2. Required jar 
 ```
 1. Download the standard libraries called, "stdlib.jar." 
 2. Go on "https://introcs.cs.princeton.edu/java/stdlib" then download stdlib.jar

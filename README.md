@@ -7,21 +7,35 @@
 Escape velocity is the minimum speed that a body must have in order to escape the gravitational attraction of a particular planet or other object.
 
 ## 1.2. 
-Planets used in the simulating program: sun, earth, moon, mercury, venus, mars, jupiter, satum, uranus, neptune
+Planets used in the simulating program: 
+<ol>
+  <li>sun</li>
+  <li>earth</li>
+  <li>moon</li>
+  <li>mercury</li>
+  <li>venus</li>
+  <li>mars</li>
+  <li>jupiter</li>
+  <li>satum</li>
+  <li>uranus</li>
+  <li>neptune</li>
+</ol>
 
-Sun: Color.Red
-Earth: Color.Blue
-Mercury: Color.Green
-Venus : RGB(35, 199, 200)
-Mars: RGB(42, 234, 012)
-Jupiter: RGB(55, 23, 123)
-Satum: RGB(244, 100, 012)
-Uranus:RGB(12, 255, 98)
-Neptune:RGB(66, 88, 99)
+
+Sun: Color.Red <br>
+Earth: Color.Blue<br>
+Mercury: Color.Green<br>
+Venus : RGB(35, 199, 200)<br>
+Mars: RGB(42, 234, 012)<br>
+Jupiter: RGB(55, 23, 123)<br>
+Satum: RGB(244, 100, 012)<br>
+Uranus:RGB(12, 255, 98)<br>
+Neptune:RGB(66, 88, 99)<br>
 
 
 ## 1.3.
 
+[![Watch the video](https://raw.githubusercontent.com/woobin0413/JAVA-Simulator/master/Escape_velocity.gif)]
 
 # 2. Required jar 
 <h3>For your convenience, stdlib.jar has been uploaded, download and import it</h3>

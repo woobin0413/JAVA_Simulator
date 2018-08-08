@@ -35,7 +35,7 @@ Neptune:RGB(66, 88, 99)<br>
 
 ## 1.3.
 
-[![Watch the video](https://raw.githubusercontent.com/woobin0413/JAVA-Simulator/master/Escape_velocity.gif)]
+![Watch the video](https://raw.githubusercontent.com/woobin0413/JAVA-Simulator/master/Escape_velocity.gif)
 
 # 2. Required jar 
 <h3>For your convenience, stdlib.jar has been uploaded, download and import it</h3>

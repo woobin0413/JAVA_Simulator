@@ -1,5 +1,5 @@
-[SPACEBOY] Solar-system simulation 
-(language: java)
+[SPACEBOY] <br>
+(language: JAVA)
 ======================
 
 # 1. About solar-system simulation

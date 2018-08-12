@@ -1,5 +1,7 @@
-[SPACEBOY] <br>
-(language: JAVA)
+[SPACEBOY] 
+
+
+<img src="spaceboy.png"></img>
 ======================
 
 # 1. About solar-system simulation

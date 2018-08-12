@@ -1,5 +1,3 @@
-[SPACEBOY] 
-
 
 <img src="spaceboy.png"></img>
 ======================

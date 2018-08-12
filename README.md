@@ -34,20 +34,22 @@ Neptune:RGB(66, 88, 99)<br>
 
 
 ## 1.3.
-
 ![Watch the video](https://raw.githubusercontent.com/woobin0413/JAVA-Simulator/master/Escape_velocity.gif)
 
-# 2. Required jar 
+# 2. About 2-D Ping Pong Game
+## 2.1
+Simple Ping pong 2-D game<br>
+Language: Java
+
+# 3. Recursive Tree
+## 3.1
+Import edu.princeton.cs.introcs.StdDraw;
+
+# 4.Required Jar
 <h3>For your convenience, stdlib.jar has been uploaded, download and import it</h3>
 
-```
 1. Download the standard libraries called, "stdlib.jar" 
 2. Go on "https://introcs.cs.princeton.edu/java/stdlib" then download "stdlib.jar"
 3. Open eclipse -> project-> properties->java build path-> libraries-> add external JARs
 4. Import the jar file
 5. Run the project
-
-```
-
-## 3. Screenshot
-To Be Continued

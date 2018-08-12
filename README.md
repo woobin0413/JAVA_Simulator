@@ -31,19 +31,28 @@ Jupiter: RGB(55, 23, 123)<br>
 Satum: RGB(244, 100, 012)<br>
 Uranus:RGB(12, 255, 98)<br>
 Neptune:RGB(66, 88, 99)<br>
-
+Language: Java
 
 ## 1.3.
 ![Watch the video](https://raw.githubusercontent.com/woobin0413/JAVA-Simulator/master/Escape_velocity.gif)
 
 # 2. About 2-D Ping Pong Game
 ## 2.1
-Simple Ping pong 2-D game<br>
+Simple Ping pong 2-D game
 Language: Java
+
+
+<img src="./2D_Pong_Game/img/1.png"></img>
 
 # 3. Recursive Tree
 ## 3.1
-Import edu.princeton.cs.introcs.StdDraw;
+Recursive In-Order traversal of a Binary Tree
+Language: Java
+
+<img src="./Recursive_Tree/img/1.png"></img>
+<br>
+<img src="./Recursive_Tree/img/2.png"></img>
+
 
 # 4.Required Jar
 <h3>For your convenience, stdlib.jar has been uploaded, download and import it</h3>

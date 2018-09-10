@@ -1,4 +1,4 @@
-[SPACEBOY] Recursive_Tree
+Recursive_Tree
 (language: java)
 ======================
 

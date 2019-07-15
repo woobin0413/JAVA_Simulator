@@ -34,7 +34,7 @@ Neptune:RGB(66, 88, 99)<br>
 Language: Java
 
 ## 1.3.
-![Watch the video](https://raw.githubusercontent.com/woobin0413/JAVA-Simulator/master/Escape_velocity.gif)
+<img src="./Escape_velocity.gif" alt="escape_velocity">
 
 # 2. About 2-D Ping Pong Game
 ## 2.1
